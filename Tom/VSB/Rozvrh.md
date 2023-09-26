@@ -5,14 +5,6 @@
 | Ut |[[ULM]] | [[PRAVO]] | [[FPR]] | Bouldering | [[UPR]] |
 | St | |
 | Čt ||[[LA]]| | [[ZDS]]| [[LA]]|
-| Pa |
-
-
-
-
-## UKOLY
-
-![[Ukoly]]
-
+| Pa | |
 
 

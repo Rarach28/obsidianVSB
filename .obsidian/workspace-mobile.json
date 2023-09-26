@@ -4,27 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bb350235249aa799",
+        "id": "3d04ddcd82ed17e7",
         "type": "tabs",
         "children": [
           {
-            "id": "f70b6c8c0af4fe56",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "VSB/LA/LA_C.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "49530bf09f508d82",
+            "id": "c92f3b0382ec1000",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VSB/Rozvrh.md",
+                "file": "Tom/VSB/Rozvrh.md",
                 "mode": "source",
                 "source": false
               },
@@ -32,37 +22,95 @@
             }
           },
           {
-            "id": "3f397e7a146a3107",
+            "id": "dd0e9d3cfbdac704",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "VSB/LA/LA_C.excalidraw.md"
+                "file": "Tom/Excalidraw/ULM.excalidraw.md"
               }
             }
           },
           {
-            "id": "8c9159af71c630a9",
+            "id": "d1eedb2900e14029",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "VSB/LA/LA.excalidraw.md"
+                "file": "Tom/VSB/ULM/ULM.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "0a0cf28dfab3a3f3",
+            "id": "6cb467721d1878f8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "VSB/LA/LA.excalidraw.md"
+                "file": "Tom/Excalidraw/ULM 2023-09-25 09.09.56.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "822fc296932366be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tom/VSB/ANJ/ANJ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a04b5861ac571296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tom/VSB/ZDS/ZDS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f25d6b807d0bd320",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tom/VSB/ANJ/ANJ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "171c4477dae022ee",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Tom/VSB/LA/LA_C.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "397810d01035bdff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Tom/Excalidraw/ULM 2023-09-25 09.09.56.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -128,7 +176,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "VSB/LA/LA.excalidraw.md",
+            "file": "Tom/Excalidraw/ULM 2023-09-25 09.09.56.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +193,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "VSB/LA/LA.excalidraw.md",
+            "file": "Tom/Excalidraw/ULM 2023-09-25 09.09.56.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -157,8 +205,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "VSB/LA/LA.excalidraw.md"
+            "file": "Tom/Excalidraw/ULM 2023-09-25 09.09.56.excalidraw.md"
           }
+        }
+      },
+      {
+        "id": "3f5b07551f847f27",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
         }
       }
     ],
@@ -172,11 +228,31 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "8c9159af71c630a9",
+  "active": "397810d01035bdff",
   "lastOpenFiles": [
+    "Tom/VSB/ULM/ULM.md",
+    "Tom/VSB/Rozvrh.md",
+    "Tom/VSB/LA/LA_C.excalidraw.md",
+    "Tom/VSB/LA/LA.md",
+    "Tom/VSB/ANJ/ANJ.md",
+    "studentsbook.pdf",
+    "Tom/Excalidraw/ZDS 2023-09-25 10.48.37.excalidraw.md",
+    "Tom/VSB/ZDS/ZDS.md",
+    "Zds-4.jpg",
+    "Zds-3.jpg",
+    "Zds-2.jpg",
+    "Zds-1.jpg",
+    "Tom/Excalidraw/ULM 2023-09-25 09.09.56.excalidraw.md",
+    "Pasted Image 20230925100322_772.jpg",
+    "Pasted Image 20230925095748_045.jpg",
+    "Pasted Image 20230925093421_081.jpg",
+    "Pasted Image 20230925092019_080.jpg",
+    "Tom/Excalidraw/ULM.excalidraw.md",
+    "Tom/Planner/Daily/Mon 25.9 - 23.md",
     "Untitled.canvas",
     "Excalidraw/Drawing 2023-09-21 18.08.51.excalidraw.md",
     "21-09-2023.md",
@@ -196,11 +272,6 @@
     "Excalidraw/Drawing 2023-09-19 22.25.33_0.excalidraw.md",
     "Excalidraw/Drawing 2023-09-19 22.26.12.excalidraw.png",
     "Excalidraw/Scripts/Downloaded/Set Dimensions.svg",
-    "Excalidraw/Scripts/Downloaded/Set Dimensions.md",
-    "VSB/ULM/ULM.md",
-    "VSB/PRAVO/PRAVO.md",
-    "19-09-2023.md",
-    "Untitled 1.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
@@ -209,7 +280,6 @@
     "VSB/ULM",
     "VSB",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.md"
+    "Untitled 1.canvas"
   ]
 }

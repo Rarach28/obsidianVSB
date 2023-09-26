@@ -1,8 +1,9 @@
 {
-  "obsidian-excalidraw-plugin:excalidraw-autocreate-on-current": [
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-and-embed-on-current": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "A"
     }

@@ -23,9 +23,9 @@
     "editor:configure-toolbar",
     "command-palette:open"
   ],
-  "promptDelete": true,
+  "promptDelete": false,
   "showUnsupportedFiles": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
     "PRACE/"

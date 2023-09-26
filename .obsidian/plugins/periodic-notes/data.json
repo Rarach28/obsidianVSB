@@ -1,0 +1,32 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "gg - [W]ww",
+    "folder": "Tom/Planner/Daily",
+    "template": "Tom/Planner/Templates/Daily.md",
+    "enabled": false
+  },
+  "weekly": {
+    "format": "gg - [W]ww",
+    "template": "Tom/Planner/Templates/Weekly.md",
+    "folder": "Tom/Planner/Weekly",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}
