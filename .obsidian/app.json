@@ -23,11 +23,13 @@
     "editor:configure-toolbar",
     "command-palette:open"
   ],
-  "promptDelete": false,
+  "promptDelete": true,
   "showUnsupportedFiles": true,
   "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [
     "PRACE/"
-  ]
+  ],
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./"
 }
